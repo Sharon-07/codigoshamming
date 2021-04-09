@@ -391,18 +391,21 @@ export default function Home() {
             Suponer q= 3,r= 2, luego n= (q<sup>r</sup>-1)&#8725;(q-1)= 4. Considerar:
             </p>
             <p>
-            <img src="https://scontent.ftgu1-1.fna.fbcdn.net/v/t1.6435-9/171803376_5327726340634491_3086896405941376249_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=h5P-pNV96MAAX-gfe6K&_nc_ht=scontent.ftgu1-1.fna&oh=c188df079f0537dcbbd626c74b5e0f60&oe=60970D9C" alt="M2" width={200} height={200} />
+            <img src="https://scontent.ftgu1-1.fna.fbcdn.net/v/t1.6435-9/171803376_5327726340634491_3086896405941376249_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=h5P-pNV96MAAX-gfe6K&_nc_ht=scontent.ftgu1-1.fna&oh=c188df079f0537dcbbd626c74b5e0f60&oe=60970D9C" alt="M1" width={200} height={200} />
 
             </p>
             <p>
             Si se recibe 1212, entonces:
             </p>
             <p>
-            <img src="https://scontent.ftgu1-1.fna.fbcdn.net/v/t1.6435-9/171261072_5327726430634482_5053733804920066150_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hfB4rD1tgPYAX_OqKgH&_nc_ht=scontent.ftgu1-1.fna&oh=62cf985b22139b941e338158803da9d9&oe=60971288" alt="M2" width={400} height={200} />
+            <img src="https://scontent.ftgu1-1.fna.fbcdn.net/v/t1.6435-9/171261072_5327726430634482_5053733804920066150_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hfB4rD1tgPYAX_OqKgH&_nc_ht=scontent.ftgu1-1.fna&oh=62cf985b22139b941e338158803da9d9&oe=60971288" alt="M1" width={400} height={200} />
 
             </p>
             <p>
             así la palabra enviada es 1012.
+            </p>
+            <p>
+            <a href="https://matricesh.vercel.app/">Matrices H en Latex</a>
             </p>
 
 
