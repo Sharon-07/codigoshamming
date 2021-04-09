@@ -398,7 +398,7 @@ export default function Home() {
             Si se recibe 1212, entonces:
             </p>
             <p>
-            <img src="https://scontent.ftgu1-1.fna.fbcdn.net/v/t1.6435-9/171261072_5327726430634482_5053733804920066150_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hfB4rD1tgPYAX_OqKgH&_nc_ht=scontent.ftgu1-1.fna&oh=62cf985b22139b941e338158803da9d9&oe=60971288" alt="M2" width={200} height={200} />
+            <img src="https://scontent.ftgu1-1.fna.fbcdn.net/v/t1.6435-9/171261072_5327726430634482_5053733804920066150_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hfB4rD1tgPYAX_OqKgH&_nc_ht=scontent.ftgu1-1.fna&oh=62cf985b22139b941e338158803da9d9&oe=60971288" alt="M2" width={400} height={200} />
 
             </p>
             <p>
